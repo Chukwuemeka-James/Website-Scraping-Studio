@@ -1,0 +1,9 @@
+lxml
+nltk
+urllib
+beautifulsoup4
+pip install google-play-scraper
+-q transformers
+pandas
+numpy
+plotly
